@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsetch",
+        "uuid": 7108449,
+        "checksum": "e86kra"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
